@@ -1,4 +1,4 @@
-a = "Hello World"
+greeting = "Hello World"
 describe "./variabuthenticate_or_request_with_http_basicle.rb" do
 
   it "defined a local variable called greeting and set it equal to 'Hello World'" do
